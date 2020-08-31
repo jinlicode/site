@@ -31,5 +31,14 @@ jobs:
       - name: mkdocs install
         run: pip install mkdocs
     
-      - name: mkdocs install
+      - name: mkdocs build
         run: mkdocs build
+        
+      - name: deploy file to server
+        uses: wlixcc/SFTP-Deploy-Action@v1.0 
+        with:  
+          username: 'root'   #ssh user name
+          server: '${{ secrets.SERVER_IP }}'
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          local_path: 'site'
+          remote_path: '/var/jinli/code/www_jinli_plus'
