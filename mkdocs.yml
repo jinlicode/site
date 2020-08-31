@@ -1,0 +1,43 @@
+site_name: 锦鲤部署
+site_description: 锦鲤容器管理部署工具是致力于解决中小站长部署环境问题，主打“性能调优”、“内核级别php安全组件”。
+theme:
+  name: null
+  custom_dir: material
+  palette:
+    # scheme: slate
+    # primary: blue grey
+    # accent: yellow
+  font: false
+  language: zh
+  icon:
+    logo: material/library
+  favicon: images/favicon.png
+  features:
+    tabs: true
+repo_url: https://github.com/jinlicode/jinliconfig
+# plugins:
+#   - git-revision-date
+nav:
+  - 首页: index.md
+  - 产品文档:
+      - 产品优势: docs/advantage.md
+      - 服务器要求: docs/service.md
+      - 开始使用: docs/getting-started.md
+      - 常用工具下载: docs/tools.md
+      - 常用linux命令: docs/cmd.md
+      - 视频教程: docs/video.md
+      - 目录结构: docs/directory.md
+      - 常见问题: docs/FAQ.md
+      - bug报告: docs/bug_issue.md
+      - 许可协议: docs/license.md
+  - 二次开发:
+      - 开发规范: setup/changing-the-colors.md
+      - 贡献代码: setup/changing-the-fonts.md
+      - 许可协议: setup/changing-the-language.md
+  - 参考:
+      - Admonitions: reference/admonitions.md
+      - Buttons: reference/buttons.md
+      - Code blocks: reference/code-blocks.md
+  - 变更日志:
+      - Upgrading: upgrading.md
+      - Deprecations: deprecations.md
