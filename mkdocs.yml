@@ -22,11 +22,13 @@ nav:
   - 产品文档:
       - 产品优势: docs/advantage.md
       - 服务器要求: docs/service.md
-      - 开始使用: docs/getting-started.md
       - 常用工具下载: docs/tools.md
+      - 开始使用: docs/getting-started.md
+      - 创建第一个网站: docs/create_first_website.md
       - 常用linux命令: docs/cmd.md
       - 视频教程: docs/video.md
       - 目录结构: docs/directory.md
+      - 服务器安全加固: docs/server_steady.md
       - 常见问题: docs/FAQ.md
       - bug报告: docs/bug_issue.md
       - 许可协议: docs/license.md
