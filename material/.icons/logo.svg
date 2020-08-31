@@ -1,1 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89"><path d="M3.136 17.387v42.932l42.932 21.467L3.136 17.387z"/><path d="M21.91 8l42.933 64.398-18.775 9.388L3.136 17.387 21.91 8z" fill-opacity=".5"/><path d="M67.535 17.387L40.273 35.543l21.878 32.818 5.384 2.691V17.387z"/><path d="M67.535 17.387v53.666l18.774-9.388V8l-18.774 9.387z" fill-opacity=".25"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+	    <defs>
+        <style>.cls-1,.cls-2{fill:none;}.cls-1{clip-rule:evenodd;}.cls-3{clip-path:url(#clip-path);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:#FFFFFF;}.cls-6{clip-path:url(#clip-path-3);}.cls-7{clip-path:url(#clip-path-5);}.cls-8{clip-path:url(#clip-path-7);}.cls-9{clip-path:url(#clip-path-9);}</style>
+        <clipPath id="clip-path">
+            <path class="cls-1" d="M269.13,326S328.47,285.06,376,204.17C423.71,123,424.78,40.46,424.78,40.46s45.14,87.62-1.62,196C376.17,345.42,269.13,326,269.13,326Z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect class="cls-2" x="39.1" y="3.46" width="2016.52" height="504.13"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <circle class="cls-2" cx="294.78" cy="167.83" r="20.34" transform="translate(-11.07 314.52) rotate(-55.28)"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path class="cls-1" d="M414.91,396.38c-11-8.76-23.13-15.82-36-19.39-3.88-1.06-7.82-2-11.78-2.69,31.21-6.51,58.27-20.24,77.61-38.59-.19,1.13-2.87,16.39-13.17,35.5C422.52,387.94,416.53,394.71,414.91,396.38Z"/>
+        </clipPath>
+        <clipPath id="clip-path-7">
+            <path class="cls-1" d="M191.23,123.06s-1.28,1.39-3.39,4A148.63,148.63,0,0,0,289.72,384a149.79,149.79,0,0,0,16.07-.88c22.81-.11,46-1.06,69.86,5.57,18.12,5,35.23,18.37,50.07,34.34,33.56,36.14,55.48,85.84,51,83.86-6.41-2.85-44.15-53.41-139.57-54.12-4.68,0-9.19-.06-13.62-.07q-6.57.61-13.24.92h-.05q-6.67.32-13.45.32c-3.61,0-7.19-.11-10.76-.24-1.6-.06-3.19-.13-4.78-.22-1.38-.08-2.75-.18-4.12-.27q-6.5-.45-12.9-1.16h-.14q-6-.67-12-1.6h0a277.64,277.64,0,0,1-65.35-18.56c-59.45-24.47-106.35-68.4-129.92-122.4,3.25-11.61,24.1-72.18,60-119.49C160.69,132,191.23,123.06,191.23,123.06Z"/>
+        </clipPath>
+        <clipPath id="clip-path-9">
+            <path class="cls-1" d="M55.66,153.25c14.51-38.4,44.05-78.81,100.68-112.07C204.11,13.12,253,5.19,295.21,6.06a318.44,318.44,0,0,1,53.9,5.85l1.26.25q5.16,1,10.28,2.21l3.21.76c30.87,7.47,50.24,16.79,50.24,16.79a497.38,497.38,0,0,1-19.23,97.55c-15.66,50.56-32.79,78.65-32.79,78.65l-15.63-105.7s-66.22-19.23-138.13,2.13C109.31,134,59,268.5,50.6,293.17a197.41,197.41,0,0,1,5.06-139.92Z"/>
+        </clipPath>
+    </defs>
+    <title>锦鲤部署</title>
+    <g class="cls-3">
+        <g class="cls-4">
+            <rect class="cls-5" x="260.13" y="31.46" width="193.25" height="304.87"/>
+        </g>
+    </g>
+    <g class="cls-6">
+        <g class="cls-4">
+            <rect class="cls-5" x="265.44" y="138.48" width="58.69" height="58.69"/>
+        </g>
+    </g>
+    <g class="cls-7">
+        <g class="cls-4">
+            <rect class="cls-5" x="358.09" y="326.71" width="95.62" height="78.68"/>
+        </g>
+    </g>
+    <g class="cls-8">
+        <g class="cls-4">
+            <rect class="cls-5" x="47.87" y="114.06" width="438.46" height="401.85"/>
+        </g>
+    </g>
+    <g class="cls-9">
+        <g class="cls-4">
+            <rect class="cls-5" x="31.18" y="-3" width="391.92" height="305.18"/>
+        </g>
+    </g>
+</svg>

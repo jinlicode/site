@@ -10,7 +10,7 @@ theme:
   font: false
   language: zh
   icon:
-    logo: material/library
+    logo: logo
   favicon: images/favicon.png
   features:
     tabs: true
@@ -34,10 +34,6 @@ nav:
       - 开发规范: development/specification.md
       - 贡献代码: development/pull_requests.md
       - 许可协议: development/license.md
-  - 参考:
-      - Admonitions: reference/admonitions.md
-      - Buttons: reference/buttons.md
-      - Code blocks: reference/code-blocks.md
-  - 变更日志:
-      - Upgrading: upgrading.md
-      - Deprecations: deprecations.md
+  - 更新日志:
+      - 更新日志: update/upgrading.md
+      - 放弃内容: update/deprecations.md
