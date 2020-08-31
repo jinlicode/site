@@ -30,10 +30,10 @@ nav:
       - 常见问题: docs/FAQ.md
       - bug报告: docs/bug_issue.md
       - 许可协议: docs/license.md
-  - 二次开发:
-      - 开发规范: setup/changing-the-colors.md
-      - 贡献代码: setup/changing-the-fonts.md
-      - 许可协议: setup/changing-the-language.md
+  - 开发:
+      - 开发规范: development/specification.md
+      - 贡献代码: development/pull_requests.md
+      - 许可协议: development/license.md
   - 参考:
       - Admonitions: reference/admonitions.md
       - Buttons: reference/buttons.md
