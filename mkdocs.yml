@@ -29,6 +29,7 @@ nav:
       - php版本说明: docs/php_ver.md
       - 视频教程: docs/video.md
       - 目录结构: docs/directory.md
+      - 腾讯云Ubuntu切换root: docs/tencent_ubuntu.md
       - 服务器安全加固: docs/server_steady.md
       - 常见问题: docs/FAQ.md
       - bug报告: docs/bug_issue.md
