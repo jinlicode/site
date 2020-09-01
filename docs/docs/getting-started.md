@@ -25,4 +25,3 @@ sh -c "$(curl -fsSL https://release.jinli.plus/install.sh)"
 可以先查看视频教程，熟悉流程。再进行安装
 
 视频教程如下：
-
