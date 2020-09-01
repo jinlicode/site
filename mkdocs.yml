@@ -26,6 +26,7 @@ nav:
       - 开始使用: docs/getting-started.md
       - 创建第一个网站: docs/create_first_website.md
       - 常用linux命令: docs/cmd.md
+      - php版本说明: docs/php_ver.md
       - 视频教程: docs/video.md
       - 目录结构: docs/directory.md
       - 服务器安全加固: docs/server_steady.md
