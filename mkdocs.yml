@@ -37,6 +37,7 @@ nav:
   - 开发:
       - 开发规范: development/specification.md
       - 贡献代码: development/pull_requests.md
+      - docker安装: development/docker_install.md
       - 许可协议: development/license.md
   - 更新日志:
       - 更新日志: update/upgrading.md
