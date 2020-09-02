@@ -21,6 +21,7 @@ nav:
   - 首页: index.md
   - 产品文档:
       - 产品优势: docs/advantage.md
+      - 开源: docs/open_source.md
       - 服务器要求: docs/service.md
       - 常用工具下载: docs/tools.md
       - 开始使用: docs/getting-started.md
