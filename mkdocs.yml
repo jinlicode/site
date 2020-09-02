@@ -39,6 +39,7 @@ nav:
       - 贡献代码: development/pull_requests.md
       - 开发环境配置: development/dev_env.md
       - docker安装: development/docker_install.md
+      - nginx限速配置: development/nginx_limit_request.md
       - 许可协议: development/license.md
   - 更新日志:
       - 更新日志: update/upgrading.md

@@ -23,3 +23,16 @@ ls /var/jinli
 ```bash
 du -sh /var/jinli/
 ```
+
+## 查看Linux进程
+
+```bash
+ps aux
+```
+
+如果需要查看某些进程，比如MySQL可以使用grep做过滤
+
+```bash
+ps aux | grep mysql
+```
+
